@@ -13,6 +13,10 @@ The objective is to survive as long as possible while enemies continuously spawn
 
 The game includes a main menu, gameplay interface, credits page, background music, and sound effects.
 
+## Gameplay Demo
+
+[Watch Gameplay Demo on YouTube](https://youtu.be/gWTR7mi4iIA)
+
 ## Gameplay Features
 
 - **Enemy AI:** Continuous enemy spawning and Blueprint-based player pursuit.
